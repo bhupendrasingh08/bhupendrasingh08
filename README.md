@@ -1,6 +1,6 @@
 # Hi there, I'm Bhupendra Singh Chaudhary! 👋
 
-I'm a results-oriented software engineer with a passion for problem-solving and a background in physics education. Currently pursuing a Master’s in Data and Computational Science, I thrive in designing impactful features, optimizing UI/UX, and ensuring seamless integrations.
+I'm a skilled, versatile and dedicated individual with a strong creative and analytical mindset. Experienced in designing and implementing impactful features, optimizing UI/UX, and ensuring seamless integrations. Proficiency in programming languages such as Python, Java, R, SQL, and more and strong command of data manipulation and analysis tools, I excel in extracting meaningful patterns from data to drive informed decision-making. I have honed my skills in data visualization tools like Tableau, Matplotlib, and databases like MySQL.
 
 ## 💻 Technical Skills
 
