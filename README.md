@@ -6,7 +6,7 @@ I'm a skilled, versatile and dedicated individual with a strong creative and ana
 
 - **Programming Languages:** Java, Python, R, SQL, JavaScript, TypeScript, HTML, CSS
 - **Data Visulisation Tools:** Tableau, Power BI, Matplotlib, Seaborn, Ggplot2, Microsoft Excel, Google Sheets
-- **Frameworks:** Spring, SpringBoot, Hibernate, React.JS, Vue.Js, Bootstrap, TailwindCSS, Numpy, Pandas
+- **Frameworks:** Spring, SpringBoot, Hibernate, Vue.Js, React.Js, Node.Js, Express.Js, Bootstrap, TailwindCSS, Numpy, Pandas
 - **Databases:** MySQL, MongoDB
 - **Developer Tools & Softwares:** Git, VS Code, IntelliJ, Eclipse IDE, Spring Tool Suite, Jupyter, RStudio
 
