@@ -12,20 +12,20 @@ I'm a skilled, versatile and dedicated individual with a strong creative and ana
 
 ## 🚀 Projects
 
-### [Country Insights](https://country-insights-frontend.vercel.app){:target="_blank" rel="noopener"} | React.Js, Node.Js, Express.Js, Tailwind CSS, Vercel 
+### [Country Insights](https://country-insights-frontend.vercel.app) | React.Js, Node.Js, Express.Js, Tailwind CSS, Vercel 
 - This project is a web application that allows users to input a country's name, fetch information about that country from the REST Countries API, and display it on the frontend.
 - Developed a web application using React.js, Vite, and Tailwind CSS to fetch and display information about countries from the REST Countries API.
 - Implemented a NodeJS backend server with Express.js to handle requests and communicate with the REST Countries API.
 - Utilized Axios for making API requests and CORS for handling cross-origin requests.
 
-### [Movizard](https://github.com/bhupendrasingh08/Project/tree/master/MoVizard){:target="_blank" rel="noopener"} | Java 
+### [Movizard](https://github.com/bhupendrasingh08/Project/tree/master/MoVizard) | Java 
 - Designed and developed an intuitive menu-driven program with a structured Model-View-Controller (MVC) architecture.
 - Leveraged Java Collections framework for efficient data management.
 - Implemented CRUD operations on data stored in files.
 
 ## 🌟 Connect with Me
 
-Let's connect! Feel free to reach out for collaborations, discussions, or just a friendly chat. You can find me on [LinkedIn](https://linkedin.com/in/bhupendrasingh-b089aa210){:target="_blank" rel="noopener"} or [GitHub](https://github.com/bhupendrasingh08){:target="_blank" rel="noopener"}.
+Let's connect! Feel free to reach out for collaborations, discussions, or just a friendly chat. You can find me on [LinkedIn](https://linkedin.com/in/bhupendrasingh-b089aa210) or [GitHub](https://github.com/bhupendrasingh08).
 
 ---
 
