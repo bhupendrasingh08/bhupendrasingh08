@@ -25,7 +25,7 @@ I'm a skilled, versatile and dedicated individual with a strong creative and ana
 
 ## 🌟 Connect with Me
 
-Let's connect! Feel free to reach out for collaborations, discussions, or just a friendly chat. You can find me on [LinkedIn](https://linkedin.com/in/bhupendrasingh-b089aa210) or [GitHub](https://github.com/bhupendrasingh08).
+Let's connect! Feel free to reach out for collaborations, discussions, or just a friendly chat. You can find me on [LinkedIn](https://linkedin.com/in/bhupendrasingh-b089aa210){:target="_blank" rel="noopener"} or [GitHub](https://github.com/bhupendrasingh08).
 
 ---
 
